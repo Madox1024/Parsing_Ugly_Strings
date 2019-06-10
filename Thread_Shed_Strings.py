@@ -182,12 +182,12 @@ for thread in thread_sold_split:
     
 # end-point variables/lists:
 	# clean_trans = list of lists containing idividual transaction data
-  # customers = list of customers
+	# customers = list of customers
 	# sales = list of prices
 	# thread_sold_split = list of thread colors sold
 	# date_index = list of dates
-  # unique_customers = list of unique customers
-  # colors = list of unique colors sold
+	# unique_customers = list of unique customers
+	# colors = list of unique colors sold
 
 #End-of-Day Report:
 print("Thread Shed End-of-Day Report for "+str(date_index[0])+":")
